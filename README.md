@@ -1,6 +1,6 @@
 # Correctness of a Simple Compiler for Expressions in Reverse-Polish Notation
 
-A proof for a simple compiler for expressions in reverse-polish notation. Based on Dr. William Young's original proof, this proof guides <a href="http://www.cs.utexas.edu/users/moore/acl2/">ACL2</a>, an automated theorem prover, to prove the correctness of a compiler for reverse-polish notation expressions with valid operations +,-, and *.
+A proof for a simple compiler for expressions in reverse-polish notation. In collaboration with Dr. William Young, we developed this proof that guides <a href="http://www.cs.utexas.edu/users/moore/acl2/">ACL2</a>, an automated theorem prover, to prove the correctness of a compiler for reverse-polish notation expressions with valid operations +,-, and *.
 
 The approach: 
 
