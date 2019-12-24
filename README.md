@@ -5,7 +5,7 @@ A proof for a simple compiler for expressions in reverse-polish notation. Based 
 The approach: 
 
 <ol>
-  <li> Define valid polish-notation expressions and how to evaluate these expressions in lisp </li>
+  <li> Define valid reverse-polish notation expressions and how to evaluate these expressions in lisp </li>
   <li> Define how the compiler converts these expressions to PUSH, ADD, SUB, and MULT operations  </li>
   <li> Describe how the compiler evaluates these compiled expressions </li>
   <li> Prove that the evaluation of the original expression and the compiled expression are equal </li>
